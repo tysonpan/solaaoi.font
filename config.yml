@@ -284,3 +284,35 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
+  -
+    css: arrow-top2
+    code: 0xf879
+    uid: 28337250980c696ae6e704026f828081 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [myhome, home]
+  -
+    css: arrow-down
+    code: 0xf890
+    uid: ab90f08ccb5cc45b829a338a45a413a9 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [pengyou,logo,tencent]
+  -
+    css: arrow-up
+    code: 0xf891
+    uid: f6f69e7e826958508a5fafd3dec9b089 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [search]
+  -
+    css: arrow-bottom
+    code: 0xf892
+    uid: a2de4bae385c10f0db8b480f8c1d74a5 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
