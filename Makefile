@@ -1,5 +1,5 @@
 PROJECT     := $(notdir ${PWD})
-FONT_NAME   := typicons
+FONT_NAME   := sola aoi
 
 
 ################################################################################
