@@ -117,14 +117,6 @@ glyphs:
       email: isux@qq.com
     search: [at]
   -
-    css: qq
-    code: 0xf799
-    uid: 33a46defb9757ff9bb14b0f40a432cc4 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [qq]
-  -
     css: activity
     code: 0xf800
     uid: d522bf9b0fbe1e8c501db1ff871b359f 
@@ -276,14 +268,6 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [search]
-  -
-    css: weibo
-    code: 0xf878
-    uid: 020ae88a09a73581333c657b79d0e4c6 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [weibo,tencent]
   -
     css: arrow-top2
     code: 0xf879
