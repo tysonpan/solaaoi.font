@@ -350,7 +350,7 @@ glyphs:
     search: [middle-rain, weather]
   -
     css: heavy-rain
-    code: 0xf781
+    code: 0xf784
     uid: d22a9fe9f197cb9ef53139cb57c4fd09 
     meta:
       author: isux
