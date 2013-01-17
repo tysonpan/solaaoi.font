@@ -300,3 +300,12 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
+    -
+    css: cake
+    code: 0xf893
+    uid: a2de4bae385c10f0db8b480f8c1d74a5
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [cake,tencent]
+
