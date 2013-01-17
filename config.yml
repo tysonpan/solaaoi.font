@@ -117,14 +117,6 @@ glyphs:
       email: isux@qq.com
     search: [at]
   -
-    css: qq
-    code: 0xf799
-    uid: 33a46defb9757ff9bb14b0f40a432cc4 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [qq]
-  -
     css: activity
     code: 0xf800
     uid: d522bf9b0fbe1e8c501db1ff871b359f 
@@ -184,6 +176,150 @@ glyphs:
     css: cloudy
     code: 0xf866
     uid: 7ce2e72d9618a8fbf8a48929b7a21129 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [cloudy, weather]
+  -
+    css: whirlwind
+    code: 0xf927
+    uid: 80690177904a56387cf13d0b4391012e
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [whirlwind, weather]
+  -
+    css: sandstorm
+    code: 0xf926
+    uid: 99cb2e0b1f773a7a0db53cf6fca4e988 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [sandstorm, weather]
+  -
+    css: sink-float
+    code: 0xf925
+    uid: 8d436ba168d8827137b31b619ccc3b82 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [sink-float, weather]
+  -
+    css: snow-shower
+    code: 0xf924
+    uid: b46fc0e51e4d2c0727544515af38b5cd 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [snow, shower, weather]
+  -
+    css: fog
+    code: 0xf923
+    uid: 2ae59c9d0f454344656b6f5c9823527f 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [fog, weather]
+  -
+    css: tornado
+    code: 0xf922
+    uid: 8db23f7c6e49b7b837e0497edb616379 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [tornado, weather]
+  -
+    css: sleet
+    code: 0xf921
+    uid: 6f903f13e9906da87b5721dd09cdd57f 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [sleet, weather]
+  -
+    css: mist
+    code: 0xf920
+    uid: b92b07dd4153bd0ae92a30af37591758 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [mist, weather]
+  -
+    css: big-snow
+    code: 0xf919
+    uid: 0941a65ff9c4878d9510092142738eb3 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [big-snow, weather]
+  -
+    css: middle-snow
+    code: 0xf918
+    uid: f8ad5d78931dffc432d9e3818fd535d4 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [middle-snow, weather]
+  -
+    css: little-snow
+    code: 0xf917
+    uid: 6e61158cace490f082aeaca8774602b2 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [little-snow, weather]
+  -
+    css: jansha
+    code: 0xf916
+    uid: 313c3a7f03047701ebffe740c861c8ca 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [jansha, weather]
+  -
+    css: heavy-rainstorm
+    code: 0xf915
+    uid: 220d1186e4531efd3cf2d9c6f5d0550b
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [heavy-rainstorm, rain, weather]
+  -
+    css: rainstorm
+    code: 0xf914
+    uid: 591eb82556912be5fc5dec042966b829 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [rainstorm, weather]
+  -
+    css: drizzle
+    code: 0xf913
+    uid: 64dc76cdb216e596bd9f5fe18a3a9709 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [drizzle, weather]
+  -
+    css: thunderstorms
+    code: 0xf912
+    uid: cfa679fb0891b245759b2f2e04e6963b 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [thunderstorms, weather]
+  -
+    css: shower
+    code: 0xf910
+    uid: 75017cf8f731a49394e3895361314f5d 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [shower, weather]
+  -
+    css: cloudy2
+    code: 0xf911
+    uid: 2089d155f2bd21c9a7d366f3a851b1b2 
     meta:
       author: isux
       email: isux@qq.com
@@ -277,14 +413,6 @@ glyphs:
       email: isux@qq.com
     search: [search]
   -
-    css: weibo
-    code: 0xf878
-    uid: 020ae88a09a73581333c657b79d0e4c6 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [weibo,tencent]
-  -
     css: arrow-top2
     code: 0xf879
     uid: 28337250980c696ae6e704026f828081 
@@ -316,3 +444,11 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
+    -
+    css: cake
+    code: 0xf893
+    uid: 63af6e0e86773f5faca563949bbdbf5f
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [cake,tencent]
