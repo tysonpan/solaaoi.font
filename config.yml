@@ -484,19 +484,4 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
-  -
-    css: cake
-    code: 0xf893
-    uid: 63af6e0e86773f5faca563949bbdbf5f
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [cake,qzone]
-  -
-    css: bubble-right
-    code: 0xf894
-    uid: 4e18ac09eac37b35cc771ddaa7a22c74
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [bubble,qzone]
+
