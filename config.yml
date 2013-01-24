@@ -484,4 +484,12 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
+  -
+    css: checkin-circle
+    code: 0xf893
+    uid: 08ad9e442f6586e040e28f95dcb1563f 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [checkin,circle,tencent]
 
