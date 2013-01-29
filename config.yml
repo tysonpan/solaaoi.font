@@ -459,7 +459,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [myhome, home]
+    search: [arrow,top, qzone]
   -
     css: arrow-down
     code: 0xf890
@@ -467,7 +467,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [pengyou,logo,tencent]
+    search: [arrow,down,tencent]
   -
     css: arrow-up
     code: 0xf891
@@ -475,7 +475,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [search]
+    search: [arrow,tencent,up]
   -
     css: arrow-bottom
     code: 0xf892
@@ -483,7 +483,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [weibo,tencent]
+    search: [arrow,bottom,qzone]
   -
     css: checkin-circle
     code: 0xf893
@@ -491,5 +491,29 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [checkin,circle,tencent]
+    search: [checkin,circle,qzone]
+  -
+    css: play
+    code: 0xf894
+    uid: 2867980df2e920df50b1790ea661e8df 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [play,media,qzone]
+  -
+    css: pause
+    code: 0xf895
+    uid: f8d0a1212fc44839760c86137386d4d2 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [pause,media,qzone]
+  -
+    css: say-other
+    code: 0xf896
+    uid: b3f72d0dd29ef9d4c504ecc4cdc4d871 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [say,other,qzone]
 
