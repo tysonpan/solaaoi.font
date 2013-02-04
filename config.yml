@@ -589,13 +589,13 @@ glyphs:
       email: isux@qq.com
     search: [like,zan,qzone]
   -
-    css: timing
+    css: mark-man
     code: 0xf90a
     uid: 693d2eccc36cf0840cbf41c9594fb835
     meta:
       author: isux
       email: isux@qq.com
-    search: [timing,qzone]
+    search: [mark-man,qzone]
   -
     css: hometown
     code: 0xf90b
