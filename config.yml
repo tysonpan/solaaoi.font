@@ -566,7 +566,7 @@ glyphs:
     search: [zoom-out,qzone]
   -
     css: image
-    code: 0xf89c
+    code: 0xf88c
     uid: 0178750590ab32929c3dca2076b8bb82 
     meta:
       author: isux
