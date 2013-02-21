@@ -459,7 +459,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [myhome, home]
+    search: [arrow,top, qzone]
   -
     css: arrow-down
     code: 0xf890
@@ -467,7 +467,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [pengyou,logo,tencent]
+    search: [arrow,down,tencent]
   -
     css: arrow-up
     code: 0xf891
@@ -475,7 +475,7 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [search]
+    search: [arrow,tencent,up]
   -
     css: arrow-bottom
     code: 0xf892
@@ -483,5 +483,148 @@ glyphs:
     meta:
       author: isux
       email: isux@qq.com
-    search: [weibo,tencent]
-
+    search: [arrow,bottom,qzone]
+  -
+    css: checkin-circle
+    code: 0xf893
+    uid: 08ad9e442f6586e040e28f95dcb1563f 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [checkin,circle,qzone]
+  -
+    css: play
+    code: 0xf894
+    uid: 2867980df2e920df50b1790ea661e8df 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [play,media,qzone]
+  -
+    css: pause
+    code: 0xf895
+    uid: f8d0a1212fc44839760c86137386d4d2 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [pause,media,qzone]
+  -
+    css: say-other
+    code: 0xf896
+    uid: b3f72d0dd29ef9d4c504ecc4cdc4d871 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [say,other,qzone]
+  -
+    css: add
+    code: 0xf897
+    uid: d48ba6a6715bdfb3f9a7623413f41983 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [add,qzone]
+  -
+    css: delete
+    code: 0xf898
+    uid: d2358cec07381c9d613bf193ba2ea5fd 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [delete,qzone]
+  -
+    css: delete2
+    code: 0xf899
+    uid: 3da25f913736798d67d456d8804db06c 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [delete,qzone]
+  -
+    css: edit
+    code: 0xf89a
+    uid: aa2a55de5f51843ef29365e21962057e 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [edit,qzone]
+  -
+    css: zoom-in
+    code: 0xf89b
+    uid: e1ab694ce3a10660153a8f02d2219d1a 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [zoom-in,qzone]
+  -
+    css: zoom-out
+    code: 0xf89c
+    uid: e51be0ebcd61cb511c5a1067cc61093e
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [zoom-out,qzone]
+  -
+    css: image
+    code: 0xf88c
+    uid: 0178750590ab32929c3dca2076b8bb82 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [image,qzone]
+  -
+    css: image-add
+    code: 0xf89d
+    uid: cbc84cc719925946f085fa624819b1ab 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [image,add,qzone]
+  -
+    css: zan3
+    code: 0xf89e
+    uid: 2547f4f16af7d5cc61f312e804de9c23 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [like,zan,qzone]
+  -
+    css: mark-man
+    code: 0xf90a
+    uid: 693d2eccc36cf0840cbf41c9594fb835
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [mark-man,qzone]
+  -
+    css: hometown
+    code: 0xf90b
+    uid: 548b46bef3df65d1f87303353eba6b60 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [hometown,qzone]
+  -
+    css: remove
+    code: 0xf90c
+    uid: 012e077dfe0878888e9ea00e73d72dac 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [remove,qzone]
+  -
+    css: master
+    code: 0xf90d
+    uid: 93fc4b39eabb99970762632a778ce4f2 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [master,qzone]
+  -
+    css: timing
+    code: 0xf90e
+    uid: ebed6d0826ca8a94da425f137c0f9dcd 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [timing,qzone]
