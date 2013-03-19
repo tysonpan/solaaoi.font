@@ -628,3 +628,11 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [timing,qzone]
+  -
+    css: thanks
+    code: 0xf900
+    uid: 694a86ca5852a7b34950039928d701be 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [thanks,qzone]
