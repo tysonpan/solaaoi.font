@@ -664,4 +664,21 @@ glyphs:
       email: isux@qq.com
     search: [topic,qzone]
 
+  -
+    css: set
+    code: 0xf904
+    uid: 8459d2739c5216466c6d23a8f5d1f57e
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [set,qzone]
+
+  -
+    css: refresh
+    code: 0xf905
+    uid: 40024961e7697a96e8f6e5921de2b6f8 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [refresh,qzone]
 
