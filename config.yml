@@ -493,6 +493,14 @@ glyphs:
       email: isux@qq.com
     search: [checkin,circle,qzone]
   -
+    css: checkin-circle2
+    code: 0x6f
+    uid: 08ad9e442f6586e040e28f95dcb15640
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [checkin,circle,qzone]
+  -
     css: play
     code: 0xf894
     uid: 2867980df2e920df50b1790ea661e8df 
