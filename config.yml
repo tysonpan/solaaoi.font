@@ -494,7 +494,7 @@ glyphs:
     search: [checkin,circle,qzone]
   -
     css: checkin-circle2
-    code: 0x6f
+    code: 0x006f
     uid: 1d28b776fda1cdfd97b6a18deb73cfab
     meta:
       author: isux
